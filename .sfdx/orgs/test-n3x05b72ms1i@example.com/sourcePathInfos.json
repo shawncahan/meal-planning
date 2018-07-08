@@ -1,0 +1,257 @@
+[
+    [
+        "C:\\Users\\dad\\git-projects\\MealPlanning\\force-app",
+        {
+            "sourcePath": "C:\\Users\\dad\\git-projects\\MealPlanning\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1530986634604,
+            "changeTime": 1530986634604,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\dad\\git-projects\\MealPlanning\\force-app\\main",
+        {
+            "sourcePath": "C:\\Users\\dad\\git-projects\\MealPlanning\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1530986634604,
+            "changeTime": 1530986634604,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\dad\\git-projects\\MealPlanning\\force-app\\main\\default",
+        {
+            "sourcePath": "C:\\Users\\dad\\git-projects\\MealPlanning\\force-app\\main\\default",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1531043384973,
+            "changeTime": 1531043384973,
+            "contentHash": "4f090b12d069ab492a48d0da355988187018b1a5",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\dad\\git-projects\\MealPlanning\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "C:\\Users\\dad\\git-projects\\MealPlanning\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1530986634604,
+            "changeTime": 1530986634604,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\dad\\git-projects\\MealPlanning",
+        {
+            "sourcePath": "C:\\Users\\dad\\git-projects\\MealPlanning",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1530986659136,
+            "changeTime": 1530986659136,
+            "contentHash": "3d48858a737ab8c39315eaf1c5149980d1a9cdae",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\dad\\git-projects\\MealPlanning\\force-app\\main\\default\\objects\\Meal__c\\Meal__c.object-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\dad\\git-projects\\MealPlanning\\force-app\\main\\default\\objects\\Meal__c\\Meal__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 2106,
+            "modifiedTime": 1531043384951,
+            "changeTime": 1531043384951,
+            "contentHash": "3967cd6f769e131f2e5f5ed622ac6c2f46095f50",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\dad\\git-projects\\MealPlanning\\force-app\\main\\default\\objects\\Meal__c\\fields\\Meal_Type__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\dad\\git-projects\\MealPlanning\\force-app\\main\\default\\objects\\Meal__c\\fields\\Meal_Type__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1350,
+            "modifiedTime": 1531043622020,
+            "changeTime": 1531043622020,
+            "contentHash": "fcdca51f9216e3783298eddee94b7c2eea5e926c"
+        }
+    ],
+    [
+        "C:\\Users\\dad\\git-projects\\MealPlanning\\force-app\\main\\default\\layouts\\Meal__c-Meal Layout.layout-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\dad\\git-projects\\MealPlanning\\force-app\\main\\default\\layouts\\Meal__c-Meal Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 2883,
+            "modifiedTime": 1531043384963,
+            "changeTime": 1531043384963,
+            "contentHash": "6261255619dc2c88c35ce148eac3f7346cffc71b",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\dad\\git-projects\\MealPlanning\\force-app\\main\\default\\tabs\\Meal__c.tab-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\dad\\git-projects\\MealPlanning\\force-app\\main\\default\\tabs\\Meal__c.tab-meta.xml",
+            "isDirectory": false,
+            "size": 222,
+            "modifiedTime": 1531043384967,
+            "changeTime": 1531043384967,
+            "contentHash": "e6d3ceb7c99eb8a50672ce743ff76440c6fcc5a6",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\dad\\git-projects\\MealPlanning\\force-app\\main\\default\\profiles\\Custom: Sales Profile.profile-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\dad\\git-projects\\MealPlanning\\force-app\\main\\default\\profiles\\Custom: Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 4574,
+            "modifiedTime": 1531043384993,
+            "changeTime": 1531043384993,
+            "contentHash": "183d723db8843b618712d4aa33fd726404f75ef3",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\dad\\git-projects\\MealPlanning\\force-app\\main\\default\\profiles\\Custom: Support Profile.profile-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\dad\\git-projects\\MealPlanning\\force-app\\main\\default\\profiles\\Custom: Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 4912,
+            "modifiedTime": 1531043384993,
+            "changeTime": 1531043384993,
+            "contentHash": "2dfcdfb27834c86d9cda996cc14a3a1b36afc5c6",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\dad\\git-projects\\MealPlanning\\force-app\\main\\default\\profiles\\Custom: Marketing Profile.profile-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\dad\\git-projects\\MealPlanning\\force-app\\main\\default\\profiles\\Custom: Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 4574,
+            "modifiedTime": 1531043384993,
+            "changeTime": 1531043384993,
+            "contentHash": "183d723db8843b618712d4aa33fd726404f75ef3",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\dad\\git-projects\\MealPlanning\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\dad\\git-projects\\MealPlanning\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "size": 18321,
+            "modifiedTime": 1531043385007,
+            "changeTime": 1531043385007,
+            "contentHash": "ff32b6520eedc6c70b2ef7892883c6389858a2a8",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\dad\\git-projects\\MealPlanning\\force-app\\main\\default\\objects\\Meal__c",
+        {
+            "sourcePath": "C:\\Users\\dad\\git-projects\\MealPlanning\\force-app\\main\\default\\objects\\Meal__c",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1531043384951,
+            "changeTime": 1531043384951,
+            "contentHash": "d61f8d6e04d20990b0de6ede585561e4dc7a0c0b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\dad\\git-projects\\MealPlanning\\force-app\\main\\default\\objects",
+        {
+            "sourcePath": "C:\\Users\\dad\\git-projects\\MealPlanning\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1531043384943,
+            "changeTime": 1531043384943,
+            "contentHash": "5195d3fe142db18bc9930afee175e2a3795af278",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\dad\\git-projects\\MealPlanning\\force-app\\main\\default\\objects\\Meal__c\\fields",
+        {
+            "sourcePath": "C:\\Users\\dad\\git-projects\\MealPlanning\\force-app\\main\\default\\objects\\Meal__c\\fields",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1531043384952,
+            "changeTime": 1531043384952,
+            "contentHash": "af81060f8842dd6f0661651620eca7049c9f1fc2",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\dad\\git-projects\\MealPlanning\\force-app\\main\\default\\layouts",
+        {
+            "sourcePath": "C:\\Users\\dad\\git-projects\\MealPlanning\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1531043384962,
+            "changeTime": 1531043384962,
+            "contentHash": "63f1541a729aae09fc5a00510ebca5b0542d5ab4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\dad\\git-projects\\MealPlanning\\force-app\\main\\default\\tabs",
+        {
+            "sourcePath": "C:\\Users\\dad\\git-projects\\MealPlanning\\force-app\\main\\default\\tabs",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1531043384965,
+            "changeTime": 1531043384965,
+            "contentHash": "d681c7d9644926fffb80f675e67953f240866144",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\dad\\git-projects\\MealPlanning\\force-app\\main\\default\\profiles",
+        {
+            "sourcePath": "C:\\Users\\dad\\git-projects\\MealPlanning\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1531043385002,
+            "changeTime": 1531043385002,
+            "contentHash": "28a941c36edc4d0e24ad208bddbadc4530145796",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ]
+]
