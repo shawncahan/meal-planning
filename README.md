@@ -7,7 +7,7 @@ Meal Planning App
 
 
 ## Description of Files and Directories
-
+### sfdx file in gitignore
 
 ## Issues
 
